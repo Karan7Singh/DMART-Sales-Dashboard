@@ -1,5 +1,5 @@
 # DMART-Sales-Dashboard
-I have analyzed DMART Sales Data and created a Sales dashboard using "Pivot Tables , Pivot Charts , Slicers , Timeline" which makes easy to understand data and visually presents all the important insights from the data . 
+I have Analyzed DMART Sales Data and created a Sales dashboard in excel using different "Pivot Tables, Pivot Charts, Slicers, Timeline which includes data cleaning, data analyzing, data visualizing and visually presents all the important insights from the data. 
 # Dataset Used
 - <a href="https://github.com/Karan7Singh/DMART-Sales-Dashboard/blob/main/DMART%20Sales%20Dashboard.xlsx">Dataset</a>
 
